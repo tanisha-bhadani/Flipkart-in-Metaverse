@@ -14,7 +14,7 @@
 </p>
 
 So here we bring you "Flipkart's 3D virtual world" <br />
-* A fully 3D virtual world in MetaVerse in Decentraland. <br />
+* A fully 3D virtual world in Decentraland Metaverse. <br />
 * Decentraland is a 3D virtual world browser-based platform. Users may buy virtual plots of land in the platform as NFTs via the MANA cryptocurrency, which uses the    Ethereum blockchain.
 * Mana Tokens - In-game ERC-20 cryptocurrency of Decentraland used to trade land and other goods(wearables,objects etc) in the virtual world.
 
@@ -39,7 +39,7 @@ So here we bring you "Flipkart's 3D virtual world" <br />
   - [Authors](#authors)
   
 ## UseCases
-* Our solution keeps users more engaged to the 3D world with interactive UI, which helps in attracting more and more customers.It also has customizable Avatar generation feature along with some in-built wearables provided by dcl.
+* Our solution keeps users more engaged to the 3D world with interactive UI, which helps in attracting more and more customers.
 
 * On purchasing any product, along with the product the user even gets the NFT of the product which gives them the ownership for the product in digital world as well. Using this he/she can flaunt about it digitally as well.
 
